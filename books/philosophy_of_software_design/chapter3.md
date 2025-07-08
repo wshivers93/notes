@@ -17,7 +17,7 @@ The term *technical debt* is often used to describe the problems caused by tacti
 
 <span style="color:blue">---</span> Strategic programming
 
-![diagram]("./assets/chapter3_diagram.png")
+![diagram](./assets/chapter3_diagram.png)
 
 ### 3.4 Startups and investment
 Sometimes there are strong forces working against the strategic approach (e.g. startups often take a tactical approach). However, know that once a codebase becomes spaghetti is is nearly impossible to fix.
